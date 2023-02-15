@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.list-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.nav-link {
+  padding-left: 20px;
+}
